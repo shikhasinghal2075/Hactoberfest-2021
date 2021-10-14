@@ -3,6 +3,7 @@
 // Devices : MSP430FR5969
 // Author : Shikha Singhal
 // Code : Interfacing with RTC
+// This is a rewrite of the original example code supplied by TI 
 //#########################################################################
 //  In this code MSP430FR5969 transmits data to 0x68 slave address. In this 
 //  case I2C slave is RTC.
